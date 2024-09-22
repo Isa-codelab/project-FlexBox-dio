@@ -270,3 +270,15 @@ a{
     text-transform: uppercase;
     font-size: 0.8rem;
 }
+
+nav ul:hover li a{
+    opacity: 0.3;
+    transition: 0.4s;
+
+}
+
+nav ul li a:hover{
+    opacity: 1;
+    transition: 0.3s;
+    
+}
